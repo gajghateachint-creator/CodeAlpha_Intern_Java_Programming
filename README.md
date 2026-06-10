@@ -1,61 +1,65 @@
-# CodeAlpha - Java Programming Internship
+# CodeAlpha Java Programming Internship
+
+This repository contains the tasks completed during my Java Programming Internship at CodeAlpha.
+
+---
 
 ## Task 1: Student Grade Tracker
 
 ### Description
-Student Grade Tracker is a Java application that helps teachers manage student marks and generate performance statistics.
-
-## Task 2: Hotel Reservation System
-
-### Description
-Hotel Reservation System is a Java-based application that allows users to check room availability and book hotel rooms.
-
+A Java application to manage student marks and generate performance statistics.
 
 ### Features
-- View available rooms
-- Book rooms
-- Exit system
-- Menu-driven interface
-
-### Technologies Used
-- Java
-- Scanner Class
-- Loops
-- Switch Case
-### Features
-- Input marks of multiple students
+- Enter student names
+- Enter student marks
 - Calculate average marks
-- Find highest marks
-- Find lowest marks
-- Display result summary
+- Find highest and lowest marks
+- Generate grades (A+, A, B, C, D, F)
 
 ### Technologies Used
 - Java
 - Arrays
 - Scanner Class
-- Loops
+- Methods
+
+---
+
+## Task 2: Hotel Reservation System
+
+### Description
+A Java-based application for managing hotel room bookings and reservations.
+
+### Features
+- Check available rooms
+- Book room
+- Cancel reservation
+- View booking details
+- Menu-driven interface
+
+### Technologies Used
+- Java
+- OOP Concepts
+- Scanner Class
 - Conditional Statements
 
-### Sample Output
+---
 
-Enter number of students: 3
+## Screenshots
 
-Enter marks of Student 1: 80
-Enter marks of Student 2: 95
-Enter marks of Student 3: 70
+Screenshots of program execution are available in the Screenshots folder.
 
-===== RESULT =====
+---
 
-Average Marks = 81.66
-Highest Marks = 95
-Lowest Marks = 70
+## Author
 
-### Author
 Achint Gajghate
 
 B.Tech Information Technology
 
-Yeshwantrao Chavan College of Engineering (YCCE)
+Yeshwantrao Chavan College of Engineering (YCCE), Nagpur
 
-### Internship
+---
+
+## Internship
+
 CodeAlpha Java Programming Internship
