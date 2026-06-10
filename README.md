@@ -44,6 +44,24 @@ A Java-based application for managing hotel room bookings and reservations.
 
 ---
 
+## Task 3: Online Quiz Platform
+
+### Description
+A Java-based quiz application that allows users to answer multiple-choice questions and calculate their final score.
+
+### Features
+- Multiple-choice questions
+- Score calculation
+- Result generation
+- Console-based interface
+
+### Technologies Used
+- Java
+- Scanner Class
+- Conditional Statements
+
+---
+
 ## Screenshots
 
 Screenshots of program execution are available in the Screenshots folder.
