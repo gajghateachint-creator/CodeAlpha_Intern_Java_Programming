@@ -5,6 +5,23 @@
 ### Description
 Student Grade Tracker is a Java application that helps teachers manage student marks and generate performance statistics.
 
+## Task 2: Hotel Reservation System
+
+### Description
+Hotel Reservation System is a Java-based application that allows users to check room availability and book hotel rooms.
+
+
+### Features
+- View available rooms
+- Book rooms
+- Exit system
+- Menu-driven interface
+
+### Technologies Used
+- Java
+- Scanner Class
+- Loops
+- Switch Case
 ### Features
 - Input marks of multiple students
 - Calculate average marks
